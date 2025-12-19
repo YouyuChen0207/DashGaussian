@@ -67,9 +67,10 @@ The average of rendering quality metrics, number of Gaussian primitives in the o
 ## Citation
 ```
 @inproceedings{chen2025dashgaussian,
-  title     = {DashGaussian: Optimizing 3D Gaussian Splatting in 200 Seconds},
-  author    = {Chen, Youyu and Jiang, Junjun and Jiang, Kui and Tang, Xiao and Li, Zhihao and Liu, Xianming and Nie, Yinyu},
-  booktitle = {CVPR},
-  year      = {2025}
+  title={DashGaussian: Optimizing 3D Gaussian Splatting in 200 Seconds},
+  author={Chen, Youyu and Jiang, Junjun and Jiang, Kui and Tang, Xiao and Li, Zhihao and Liu, Xianming and Nie, Yinyu},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={11146--11155},
+  year={2025}
 }
 ```
